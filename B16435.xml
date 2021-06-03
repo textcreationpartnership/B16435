@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the worshipful our good benefactor In all lamentable manner, most humbly beseecheth your good worship, wee the miserable multitude of very poore distressed prisoners, in the hole of Woodstreet Counter, in nomber fifite poore men, or thereabouts, ying vpon the bare boordes, still languishing in great neede, ...</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16435</idno><idno type="EEBO-CITATION">99839077</idno>
+  <idno type="VID">3473</idno>
+  <idno type="EEBO-PROQUEST">2240900520</idno>
+  <idno type="STC">STC 25969</idno>
+  <idno type="STC">ESTC S103320</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99839077e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16435)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3473)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1225:12a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the worshipful our good benefactor In all lamentable manner, most humbly beseecheth your good worship, wee the miserable multitude of very poore distressed prisoners, in the hole of Woodstreet Counter, in nomber fifite poore men, or thereabouts, ying vpon the bare boordes, still languishing in great neede, ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>V. Simmes,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1595]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>An appeal for alms for Easter.</note>
+                  <note>Imperfect; mutilated with some loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With: A proper new balad in praise of my ladie Marques / W. Elderton. Imprinted at London : In Fletestreat ... by Thomas Colwell, [1569] -- A new ballad against vnthrifts. Imprinted at London : At the long Shop ... by Iohn Alde, [1562].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="dedication">
+                  <pb facs="tcp:3473:1"/>
+                  <head>To the worshipful our good benefactor.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>N all lamentable manner, most humbly beséecheth your good Wor<g ref="char:EOLhyphen"/>ship, wée the miserable multitude of very poore distressed prisoners, in the hole of Woodstréet Counter, in nomber Fiftie poore men, or ther<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abouts, ying vpon the bare boordes, still languishing in great neede, colde an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> miserie, who, by reason of this daungerous and troublesome time, be almost <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mished and hunger starued to death: others very sore sicke and diseased fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nt of reliefe and sustenance, by reason of the great number which dayly incr<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>seth, dooth in all humblenes, most humbly beséech your good Worship, euen for gods sake, to pitie our poore lamentable and distressed cases. And nowe <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to relieue, and comfort vs with your christian and godly cha<g ref="char:EOLhyphen"/>ritie against this holie and blessed time of Easter. And wee, according to our bounden duties, do, and will, dayly pray vnto Almighty God, for your long life, and happy prosperitie.</p>
+                  <closer>We humbly pray, your christian and godly charitie to be sent vnto vs by some of your seruants.</closer>
+               </div>
+            </front>
+            <body>
+               <div type="ballad">
+                  <pb facs="tcp:3473:1"/>
+                  <head>
+                     <figure>
+                        <figDesc>woodblock representation of a male figure with a halo facing left, looking left, with a cow or bull, and two stars</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>woodblock representation of a male figure with a halo facing left, looking right, with a cow or bull</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>woodblock representation of a male figure with a halo facing right, looking right, with a cow or bull, and one star</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>woodblock representation of a male figure with a turban facing right, looking right</figDesc>
+                     </figure>
+                     <figure>
+                        <figDesc>woodblock representation of a female figure facing left, looking left, with an oval object and one star</figDesc>
+                     </figure> A proper new balad in praise of my Ladie Marques, Whose death is be wailed, To the tune of new lusty gallant.</head>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">L</seg>Adies I thinke you maruell that</l>
+                     <l>I writ no mery report to you,</l>
+                     <l>And what is the cause I court it not</l>
+                     <l>So merye as I was wont to dooe,</l>
+                     <l>Alas I let you vnderstand,</l>
+                     <l>It is no newes for me to show,</l>
+                     <l>The fairest flower of my garland</l>
+                     <l>Was caught from court a great while a goe.</l>
+                  </lg>
+                  <lg>
+                     <l>For vnder the roufe of sweete Saint Paull,</l>
+                     <l>There lyeth my Ladie buryed in Claye,</l>
+                     <l>Where I make memory for her soule,</l>
+                     <l>With weepinge eyes once euerye daye,</l>
+                     <l>All other sightes I haue for got,</l>
+                     <l>That euer in court I ioyed to see:</l>
+                     <l>And that is the cause I court it not,</l>
+                     <l>So mery as I was wont to be.</l>
+                  </lg>
+                  <lg>
+                     <l>And though that shee be dead and gone,</l>
+                     <l>Whose courting need not to be tolde,</l>
+                     <l>And natures mould of fleshe and bone,</l>
+                     <l>Whose lyke now liues not to be holde,</l>
+                     <l>Me thinkes I see her walke in blacke,</l>
+                     <l>In euery corner where I goe:</l>
+                     <l>To looke if anie bodie do lacke,</l>
+                     <l>A frend to helpe them of theyr woe.</l>
+                  </lg>
+                  <lg>
+                     <l>Mee thinkes I see her sorowfull teares,</l>
+                     <l>To princelye state approching nye</l>
+                     <l>Mee thinkes I see her tremblinge feares,</l>
+                     <l>Leste anie her suites shulde hit a wrie,</l>
+                     <l>Mee thinkes she shuld be still in place</l>
+                     <l>Apitifull speaker to a Queene,</l>
+                     <l>Be wailinge every poore mans case,</l>
+                     <l>As many a time shee hath ben seene.</l>
+                  </lg>
+                  <lg>
+                     <l>Mee thinkes I see her modeste mood</l>
+                     <l>Her comlie clothig plainlie clad,</l>
+                     <l>Her face so sweete her cheere so good,</l>
+                     <l>The courtlie countenance that shee had</l>
+                     <l>But chefe of all mee thinkes I see,</l>
+                     <l>Her vertues dentie daie by daie,</l>
+                     <l>Homblie kneeling one her knee</l>
+                     <l>As her desire was still to praie.</l>
+                  </lg>
+                  <lg>
+                     <l>Mee thinkes I cold from morow to night</l>
+                     <l>Do no thing ells with verie good will,</l>
+                     <l>But spend the time to speake and writte:</l>
+                     <l>The praise of my good ladies still</l>
+                     <l>Though reason saith now she is dead</l>
+                     <l>Go seeke and sarue as good as shee</l>
+                     <l>It will not sinke so in my head</l>
+                     <l>That euer the like in courte will bee.</l>
+                  </lg>
+                  <lg>
+                     <l>But sure I am ther liueth yet,</l>
+                     <l>In court a dearer frinde to mee,</l>
+                     <l>Whome I to sarue am so vn fit,</l>
+                     <l>I am sure the like will neuer bee,</l>
+                     <l>For I with all that I can dooe,</l>
+                     <l>Vnworthie most maie seeme to bee</l>
+                     <l>To vndoo the lachet of her shooe,</l>
+                     <l>Yet will I come to courte and see.</l>
+                  </lg>
+                  <lg>
+                     <l>Then haue a mongste ye once a gaine,</l>
+                     <l>Faint harts faire Ladies nouer win,</l>
+                     <l>I trust ye will consider my payne,</l>
+                     <l>When any good Venison cometh in,</l>
+                     <l>And gentill Ladies I you praie,</l>
+                     <l>If my absentinge breede to blame,</l>
+                     <l>In my behalfe that ye will saie,</l>
+                     <l>In court is remedie for the same.</l>
+                  </lg>
+                  <closer>
+                     <signed>{quod}. <hi>W.</hi> Elderton.</signed>
+                  </closer>
+                  <trailer>¶ Finis.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>¶ Imprinted at London in Fletestreat beneath the Conduit, at the signe of S. Iohn Euangelist, by Thomas Colwell.</p>
+                  <p>
+                     <figure>
+                        <figDesc>silhouette representations of four dragons or griffins</figDesc>
+                     </figure>
+                  </p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="ballad">
+                  <pb facs="tcp:3473:2"/>
+                  <head>A New Ballad against vnthrifts.</head>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">W</seg>hen raging louts with feble braines,</l>
+                     <l>moste wilfully wyl spend a<g ref="char:EOLhyphen"/>waye:</l>
+                     <l>And eke cōsume more thē their gaines,</l>
+                     <l>in riotyng al the longe day.</l>
+                     <l>And spend with him that wil spend moste:</l>
+                     <l>yet of their gaine they need not boste.</l>
+                  </lg>
+                  <lg>
+                     <l>When drunken Drunkerds will not spare,</l>
+                     <l>the Alehous daily for to plye:</l>
+                     <l>But sit and tipple there full square,</l>
+                     <l>and to their gaines wil haue no eye.</l>
+                     <l>Nor will not cease I warrant ye:</l>
+                     <l>so long as they haue one penny.</l>
+                  </lg>
+                  <lg>
+                     <l>When rufling roisters wil bestowe,</l>
+                     <l>vpon thir backs suche fine aray:</l>
+                     <l>And be not wurth that whiche they owe,</l>
+                     <l>falling therby in to decay.</l>
+                     <l>Yet wil they set theron a face:</l>
+                     <l>And bragge and crake it out a pace.</l>
+                  </lg>
+                  <lg>
+                     <l>When liuely lads wil plye the dice,</l>
+                     <l>consuming there away their good:</l>
+                     <l>No man wil count them to be wice,</l>
+                     <l>but rather to be mad or wood.</l>
+                     <l>For when that all their money is gone:</l>
+                     <l>then are they dressed like a mome.</l>
+                  </lg>
+                  <lg>
+                     <l>When lasie loiterers will not wurk:</l>
+                     <l>and honestly their liuings get:</l>
+                     <l>But had rather in corners lurk,</l>
+                     <l>then that they wold with labor swet.</l>
+                     <l>Therfore no welth they can attain:</l>
+                     <l>but liue in trouble and in pain.</l>
+                  </lg>
+                  <lg>
+                     <l>When doting doltes wil enterprise,</l>
+                     <l>to wurk suche feates as I haue tolde:</l>
+                     <l>Not ceassing for to exercise,</l>
+                     <l>worse deeds then those w<seg rend="sup">t</seg> courage bold.</l>
+                     <l>Then some do lay their cotes to gage:</l>
+                     <l>til that they haue receiued their wage.</l>
+                  </lg>
+                  <lg>
+                     <l>Then some the Counter oft doo kisse,</l>
+                     <l>if that the money be not paid:</l>
+                     <l>Or if that they their day doo misse,</l>
+                     <l>for whiche to gage their Cote was laid.</l>
+                     <l>Yet wil they not by this take heed:</l>
+                     <l>but stil continew to proceed.</l>
+                  </lg>
+                  <lg>
+                     <l>Then some therby their credit lose</l>
+                     <l>so that no wise man wil them trust:</l>
+                     <l>Wherfore they can no lenger glose,</l>
+                     <l>but rub and reuel not they must.</l>
+                     <l>For whersoeuer they become:</l>
+                     <l>they are not so wel trust as knowne.</l>
+                  </lg>
+                  <lg>
+                     <l>Then some at length do beg their bread,</l>
+                     <l>who if in time they had been wise:</l>
+                     <l>Might wel haue had inough to fed,</l>
+                     <l>them selues, their childrē &amp; their wiues:</l>
+                     <l>But when that all is gone and spent:</l>
+                     <l>it is to late then to repent.</l>
+                  </lg>
+                  <lg>
+                     <l>Then some to pilfer doo begin,</l>
+                     <l>but assone as they be espied:</l>
+                     <l>With whips they are laid on the skin,</l>
+                     <l>at a carts ars being wel tied.</l>
+                     <l>But al this can not those amend:</l>
+                     <l>that wil doo mischefe to the end.</l>
+                  </lg>
+                  <lg>
+                     <l>Then some proceed to rob and kyl,</l>
+                     <l>counting al fish that comes to net:</l>
+                     <l>And yf that they might haue their wil,</l>
+                     <l>for right or wrong they wuld not let.</l>
+                     <l>Til at the last they fall in bands:</l>
+                     <l>and can not escape out of hands.</l>
+                  </lg>
+                  <lg>
+                     <l>Then some at Newgate doo take ship,</l>
+                     <l>sailing ful fast vp holborne hil:</l>
+                     <l>And at Tiborn their anckers piche,</l>
+                     <l>ful sore in deed against their wil.</l>
+                     <l>But then it is to late I say:</l>
+                     <l>to cal againe the yester day.</l>
+                  </lg>
+                  <lg>
+                     <l>Wherfore al ye that vse this trade,</l>
+                     <l>leaue of betimes yf ye be wise:</l>
+                     <l>Lest that perchaunce this way ye wade,</l>
+                     <l>ful sore against your owne deuise.</l>
+                     <l>For heer ye see the end of suche:</l>
+                     <l>as litle haue and wil spend muche.</l>
+                  </lg>
+                  <closer>
+                     <signed>quoth. W. F.</signed>
+                  </closer>
+                  <trailer>¶ Finis.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>¶ Imprinted at London at the long shop adioining vnto Saint mildreds Churche in the Poultry, by Iohn Alde.</p>
+                  <pb facs="tcp:3473:2"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
